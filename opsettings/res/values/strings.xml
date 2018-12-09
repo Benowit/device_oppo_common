@@ -57,4 +57,10 @@
     <string name="dci_mode_title">DCI-P3</string>
     <string name="night_mode_title">Neutral</string>
     <string name="oneplus_mode_title">OnePlus</string>
+
+    <!-- Spectrum Profiles -->
+    <string name="spectrum_category_title">Spectrum</string>
+    <string name="spectrum_title">Kernel Power Profile</string>
+    <string name="spectrum_summary">%1$s</string>
+
 </resources>
