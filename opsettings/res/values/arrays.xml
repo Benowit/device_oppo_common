@@ -35,14 +35,12 @@
         <item>Battery</item>
         <item>Balanced</item>
         <item>Performance</item>
-        <item>Gaming</item>
     </string-array>
 
     <string-array name="spectrum_values">
         <item>2</item>
         <item>0</item>
         <item>1</item>
-        <item>3</item>
     </string-array>
 
 </resources>
